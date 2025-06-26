@@ -40,16 +40,3 @@ Make sure Python is installed, then in your terminal:
 python City-discount.py
 Made with 💻 by @skyl33tg3208
 
-yaml
-Copy
-Edit
-
----
-
-✅ Now save that as `README.md`, and then push with:
-
-```bash
-git add README.md
-git commit -m "Add complete README for City Discount"
-git push origin main
-
