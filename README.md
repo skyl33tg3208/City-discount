@@ -17,12 +17,17 @@ This is a simple Python script that checks whether a user is eligible for a city
 Please enter the name of your city: Miami
 Yes, Miami is in our list of cities, so you get a discount!
 
+yaml
+Copy
+Edit
+
+---
 
 ## 🧠 Skills Practiced
 
-- Lists
-- Conditionals (`if`, `else`)
-- `input()` handling
+- Lists  
+- Conditionals (`if`, `else`)  
+- `input()` handling  
 - Basic string formatting
 
 ---
@@ -33,3 +38,18 @@ Make sure Python is installed, then in your terminal:
 
 ```bash
 python City-discount.py
+Made with 💻 by @skyl33tg3208
+
+yaml
+Copy
+Edit
+
+---
+
+✅ Now save that as `README.md`, and then push with:
+
+```bash
+git add README.md
+git commit -m "Add complete README for City Discount"
+git push origin main
+
